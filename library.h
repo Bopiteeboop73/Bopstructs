@@ -1,0 +1,6 @@
+#ifndef BOPSTRUCTS_LIBRARY_H
+#define BOPSTRUCTS_LIBRARY_H
+
+void hello();
+
+#endif // BOPSTRUCTS_LIBRARY_H
