@@ -3,4 +3,4 @@ project(Bopstructs)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_library(Bopstructs STATIC library.cpp)
+add_library(Bopstructs STATIC Vector2.cpp)
